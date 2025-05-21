@@ -2,9 +2,8 @@
 
 🖥️ Futuro desenvolvedor focado em **Angular (Front)** e **Java, Python, NestJS (Back)**. Acompanhe minha evolução e se inspire na jornada para me tornar um desenvolvedor full stack!
 
-🌐 [Meu GitHub](https://github.com/lffbs)
 
-🌐 [Meu GitHub de estudos](https://github.com/luizfelipefarias)
+🌐 [Meu GitHub](https://github.com/luizfelipefarias)
 
 ---
 

@@ -34,7 +34,7 @@ Estudante de ADS apaixonado por tecnologia. Estou sempre em busca de novos desaf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizfelipefaria&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizfelipefarias&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipefarias&layout=compact&theme=dark" alt="Top Langs"/>
 </div>
 

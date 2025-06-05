@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
+<h1>🎮Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 
 <p>
   🔥 Futuro Desenvolvedor Full Stack <br>

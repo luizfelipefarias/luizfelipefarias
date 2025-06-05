@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner Luiz Felipe" style="border-radius:50%;"/>
+<img src="./A_2D_digital_graphic_design_banner_showcases_Luiz_.png" alt="Banner Luiz Felipe" style="border-radius: 12px;" />
 
 <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 
@@ -10,7 +10,7 @@
   🚀 Em constante evolução no mundo da programação
 </p>
 
-<img src="https://media.giphy.com/media/3ohs7KViF2gfL5JQXS/giphy.gif" width="200" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding GIF"/>
 
 </div>
 
@@ -18,11 +18,11 @@
 
 ## 🧠 Sobre Mim
 
-- 💥 Explorando as principais tecnologias do mercado
-- 🚀 Foco atual: **Back-End com Java, Python, NestJS**
-- 🎯 Aprimorando o Front-End com **Angular**
-- 🐍 Também navegando com **Node.js e MySQL**
-- 💡 Filosofia de vida: *"Todo bug é só mais um boss pra derrotar."*
+- 💥 Explorando as principais tecnologias do mercado  
+- 🚀 Foco atual: **Back-End com Java, Python, NestJS**  
+- 🎯 Aprimorando o Front-End com **Angular**  
+- 🐍 Também navegando com **Node.js e MySQL**  
+- 💡 Filosofia de vida: *"Todo bug é só mais um boss pra derrotar."*  
 - 📚 Sempre aprendendo e compartilhando conhecimento
 
 ---
@@ -70,7 +70,7 @@
 
 <p align="center">
   <i>"Todo bug é só mais um boss pra derrotar."</i> <br><br>
-  <img src="https://media.giphy.com/media/kH5x0D82b4FQI/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -78,8 +78,8 @@
 ## 🕹️ Favoritos: Dying Light & Elden Ring
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6UL7BZTKhVKyI1Jk9o/giphy.gif" width="300" alt="Dying Light"/>
-  <img src="https://media.giphy.com/media/PaIKuv1wm1JCK/giphy.gif" width="300" alt="Elden Ring"/>
+  <img src="https://media.giphy.com/media/qU9eH9b8hQFjA/giphy.gif" width="300" alt="Dying Light"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Elden Ring"/>
 </p>
 
 ---

@@ -78,7 +78,7 @@
 ## 🕹️ Favoritos: Dying Light & Elden Ring
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM0MTc4bTFob2o2OWlxcWRtN2puNmF5N21zdDg2ZDhnbzV3OTJpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vmYjCRwWxbgs/giphy.gif" width="300" alt="Dying Light"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c5eWRwamllc2R0dG1qazBxdzB4YjFxYmZvNW1seHlkZ3hrMGo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASH3GhgVVOW8mlCJdU/giphy.gif" width="300" alt="Dying Light"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnNmlqdjdzd2JnMzlrY25vcm91N3NwMWE1c25zeXpneHk4eDQ4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ei4R2j6kz9JwVGhwXY/giphy.gif" width="300" alt="Elden Ring"/>
 </p>
 

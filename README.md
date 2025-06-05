@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner Luiz Felipe" style="border-radius: 12px;" />
-
+<img src="banner.png" 
+     alt="Banner Luiz Felipe" 
+     width="200" 
+     style="border-radius: 50%;" />
 <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 
 <p>

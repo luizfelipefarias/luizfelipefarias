@@ -1,4 +1,4 @@
- <img src="./1000003512-removebg-preview.png" width="600" alt="Foto Luiz Felipe" style="border-radius: 50%;" />
+ <img src="./4_20250604_235209_0003.png" width="600" alt="Foto Luiz Felipe" style="border-radius: 50%;" />
 <div align="center">
  
   <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>

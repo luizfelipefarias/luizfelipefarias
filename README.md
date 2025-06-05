@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="./4_20250604_235209_0003.png" width="200" alt="Foto Luiz Felipe" style="border-radius: 50%;" />
-  <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
+  <h1>Eu sou o <strong>Luiz Felipe</strong> 👨‍💻🎮</h1>
   <p>
     🔥 Futuro Desenvolvedor Full Stack <br>
     👾 Apaixonado por tecnologia, games e animes <br>

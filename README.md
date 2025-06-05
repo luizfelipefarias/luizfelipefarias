@@ -2,7 +2,7 @@
 
 <img src="banner.png" 
      alt="Banner Luiz Felipe" 
-     width="200" 
+     width="600" 
      style="border-radius: 50px;" />
 <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 

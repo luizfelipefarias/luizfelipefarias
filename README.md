@@ -70,7 +70,7 @@
 
 <p align="center">
   <i>"Todo bug é só mais um boss pra derrotar."</i> <br><br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZ4bWw1aWlmZDk3Zzllc3RzM2Z0cHhhMmpobHE1b256N3ZwazB5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvEdKpliYKcY0s4Pak/giphy.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoweWJ1bXZ1eGR3M2ZpbjFmOHMzeml5cXNyY2g2bG1rYzFja3RqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="200"/>
 </p>
 
 ---

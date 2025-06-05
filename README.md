@@ -1,4 +1,4 @@
-<div aling='center'>
+<div aling=center>
 
 <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 

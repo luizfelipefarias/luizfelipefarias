@@ -63,10 +63,11 @@
 
 ---
 
-## ⚔️ Dev Motto
+## ⚔️ Dev battle
 
 <p align="center">
-  <i>"Todo bug é só mais um boss pra derrotar."</i> <br><br>
+  <i>"Todo bug é só mais um boss pra derrotar.<br>
+Cada projeto é uma quest. Cada commit, um passo rumo ao próximo level."</i> <br><br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoweWJ1bXZ1eGR3M2ZpbjFmOHMzeml5cXNyY2g2bG1rYzFja3RqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="200"/>
 </p>
 

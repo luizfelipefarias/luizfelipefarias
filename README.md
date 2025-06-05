@@ -1,5 +1,5 @@
 <div align="center">
-<img src="20250604_232926_0000.png" width="200" alt="Banner Luiz Felipe Redondo" />
+<img src="./20250604_232926_0000.png" width="400" alt="Banner Luiz Felipe Redondo" />
 
 <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 

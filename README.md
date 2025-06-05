@@ -1,18 +1,15 @@
 
 <div align="center">
-
-
-<h1>🎮Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
-
-<p>
-  🔥 Futuro Desenvolvedor Full Stack <br>
-  👾 Apaixonado por tecnologia, games e animes <br>
-  🚀 Em constante evolução no mundo da programação
-</p>
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding GIF"/>
-
+  <img src="./1000003512.png" width="150" alt="Foto Luiz Felipe" style="border-radius: 50%;" />
+  <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
+  <p>
+    🔥 Futuro Desenvolvedor Full Stack <br>
+    👾 Apaixonado por tecnologia, games e animes <br>
+    🚀 Em constante evolução no mundo da programação
+  </p>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
+
 
 ---
 

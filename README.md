@@ -20,7 +20,7 @@
 - 🎯 Aprimorando o Front-End com **Angular**  
 - 🐍 Também navegando com **Node.js e MySQL**  
 - 💡 Filosofia de vida: *""Todo bug é só mais um boss pra derrotar e<br>
-    Cada projeto é uma quest,Cada commit, um passo rumo ao próximo level."*  
+    Cada projeto é uma quest,Cada commit um passo rumo ao próximo level."*  
 - 📚 Sempre aprendendo e compartilhando conhecimento
 
 ---
@@ -68,7 +68,7 @@
 
 <p align="center">
   <i>"Todo bug é só mais um boss pra derrotar e<br>
-    Cada projeto é uma quest,Cada commit, um passo rumo ao próximo level."</i> <br><br>
+    Cada projeto é uma quest,Cada commit um passo rumo ao próximo level."</i> <br><br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoweWJ1bXZ1eGR3M2ZpbjFmOHMzeml5cXNyY2g2bG1rYzFja3RqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="200"/>
 </p>
 

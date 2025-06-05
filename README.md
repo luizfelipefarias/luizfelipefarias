@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./A_2D_digital_graphic_design_banner_showcases_Luiz_.png" alt="Banner Luiz Felipe" style="border-radius: 12px;" />
+<img src="banner.png" alt="Banner Luiz Felipe" style="border-radius: 12px;" />
 
 <h1>🎮 Fala Dev! Eu sou o <strong>Luiz Felipe</strong> 👨‍💻</h1>
 

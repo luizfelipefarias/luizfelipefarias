@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%;">
+<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 500px;">
     <img src="banner.png" 
          alt="Banner Luiz Felipe" 
          style="width: 100%; height: auto;" />

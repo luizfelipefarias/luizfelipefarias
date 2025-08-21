@@ -1,41 +1,56 @@
-
 <div align="center">
   <img src="./4_20250604_235209_0003.png" width="200" alt="Foto Luiz Felipe" style="border-radius: 50%;" />
   <h1>Eu sou <strong>Luiz Felipe</strong> 👨‍💻🎮</h1>
   <p>
-    🔥 Futuro Desenvolvedor Full Stack <br>
-    👾 Apaixonado por tecnologia, games e animes <br>
+    🔥 Futuro Desenvolvedor Full Stack & Analista de Dados<br>
+    👾 Apaixonado por tecnologia, games e animes<br>
     🚀 Em constante evolução no mundo da programação
   </p>
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Coding GIF"/>
 </div>
 
-
 ---
 
 ## 🧠 Sobre Mim
-
 - 💥 Explorando as principais tecnologias do mercado  
-- 🚀 Foco atual: **Back-End com Java, Python, NestJS**  
-- 🎯 Aprimorando o Front-End com **Angular**  
-- 🐍 Também navegando com **Node.js e MySQL**  
-- 💡 Filosofia de vida: *""Todo bug é só mais um boss pra derrotar e<br>
-    Cada projeto é uma quest,Cada commit um passo rumo ao próximo level."*  
-- 📚 Sempre aprendendo e compartilhando conhecimento
+- 🎯 Foco atual: **Python, SQL e BI (Power BI / Metabase)**  
+- 🚀 Aprimorando Back-End com **Java, NestJS** e Front-End com **Angular**  
+- 💡 Filosofia de vida: *"Todo bug é só mais um boss pra derrotar. Cada projeto é uma quest, cada commit um passo rumo ao próximo level."*  
+- 📚 Sempre aprendendo e compartilhando conhecimento  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+- **Dashboard de Vendas (Python + Pandas + Matplotlib + Power BI)**  
+  - Extrai e transforma dados de vendas fictícias  
+  - Criação de gráficos e relatórios interativos  
+
+- **API CRUD em NestJS + MySQL**  
+  - Sistema de cadastro de produtos  
+  - Integração com banco de dados MySQL  
+
+- **Mini Automation Scripts (Python)**  
+  - Automatização de relatórios em Excel  
+  - Extração e limpeza de dados para dashboards  
+
+> 🔗 [Meus projetos completos no GitHub](https://github.com/luizfelipefarias)
 
 ---
 
@@ -64,20 +79,30 @@
 
 ---
 
-## ⚔️ Dev battle
+## 🎯 Roadmap da Vida Dev
+
+- [ ] Conquistar Dell G15 / Acer Nitro V15  
+- [ ] Conseguir estágio em **Python + SQL + BI**  
+- [ ] Aprimorar Back-End: Java + NestJS + Angular  
+- [ ] Alienware m16 R2  
+- [ ] Ser full stack profissional e especialista em dados  
+
+---
+
+## ⚔️ Dev Battle
 
 <p align="center">
-  <i>"Todo bug é só mais um boss pra derrotar e<br>
-    Cada projeto é uma quest,Cada commit um passo rumo ao próximo level."</i> <br><br>
+  <i>"Todo bug é só mais um boss pra derrotar.<br>
+  Cada projeto é uma quest, cada commit um passo rumo ao próximo level."</i> <br><br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoweWJ1bXZ1eGR3M2ZpbjFmOHMzeml5cXNyY2g2bG1rYzFja3RqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 🕹️ Games Favoritos: Dying Light & Elden Ring
+## 🕹️ Games Favoritos
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c5eWRwamllc2R0dG1qazBxdzB4YjFxYmZvNW1seHlkZ3hrMGo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASH3GhgVVOW8mlCJdU/giphy.gif" width="300" alt="Dying Light"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c5eWRwamllc2R0dG1qazBxdzB4YjFxYmZvNW1seHlkZ3hrMGo0aCZlcD12MV9n/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="300" alt="Dying Light"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnNmlqdjdzd2JnMzlrY25vcm91N3NwMWE1c25zeXpneHk4eDQ4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ei4R2j6kz9JwVGhwXY/giphy.gif" width="300" alt="Elden Ring"/>
 </p>
 

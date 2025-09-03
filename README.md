@@ -70,15 +70,9 @@
 ## 🌐 Onde Me Encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luiz-felipe-farias-395a44234/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:luizfelipefariasbraz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/luizfelipefarias" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ---
@@ -87,7 +81,7 @@
 
 - [x] **Passar na prova de Full Stack com Java e React** (Prioridade Máxima)
 - [ ] **Aprofundar o Back-End (Java) e o Front-End (React)**
-- [ ] **Conseguir estágio em Cibersegurança ou em Desenvolvimento Web ou mobile**
+- [ ] **Conseguir estágio em Cibersegurança ou em Desenvolvimento Full Stack**
 - [ ] Conquistar Dell G15 / Acer Nitro V15
 - [ ] Alienware m16 R2
 - [ ] Ser um especialista em Cibersegurança ou Full Stack

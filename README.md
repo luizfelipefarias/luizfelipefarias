@@ -40,9 +40,61 @@
   - Sistema de cadastro com API REST e banco de dados
   - **Em andamento** para projeto de faculdade
 
+- **Frontend Quizzerando (Versão Angular)**
+  - Este projeto é uma reimplementação em Angular do Frontend Quizzerando, originalmente criado com React. A aplicação simula um quiz interativo com foco em usabilidade e design moderno.
+  - **Tecnologias Utilizadas:**
+    - Angular 17+
+    - RxJS
+    - HTML5 + CSS3 (responsivo)
+    - TypeScript
+    - Angular CLI
+  - **Funcionalidades:**
+    - Seleção de categorias de perguntas
+    - Interface dinâmica e responsiva
+    - Feedback imediato sobre respostas
+    - Contador de pontuação e progresso
+    - Timer regressivo para desafios de tempo
+  - **Pré-requisitos:**
+    - Node.js 18+
+    - Angular CLI (npm install -g @angular/cli)
+    - Navegador moderno (Chrome, Edge, Firefox)
+  - **Autores:**
+    - Versão original em React: @impedrohenri
+    - Adaptado para Angular por:@luizfelipefarias
+    - @impedrohenri
+    - @8VINO
+  - **O que mudou da versão React?**
+    - React -> Angular
+    - React hooks (useState, etc.) -> Services + RxJS + Angular Forms
+    - JSX e componentes funcionais -> Angular templates + TypeScript
+    - CSS Modules ou styled-components -> Estilização via CSS e :host bindings
+    - React Router -> Angular Router
+    - State via useContext/useReducer -> Injeção de dependência + RxJS
+  - **Como Executar Localmente:**
+    # Clonar o repositório
+    git clone https://github.com/SEU_USUARIO/angular-quizzerando.git
+    cd angular-quizzerando
+    # Instalar dependências
+    npm install
+    # Rodar o servidor de desenvolvimento
+    ng serve
+  - **Estrutura de Pastas:**
+    src/
+    ├── app/
+    │   ├── components/ # Componentes visuais
+    │   ├── services/ # Serviços com lógica de negócio
+    │   ├── models/ # Interfaces e tipos
+    │   └── pages/ # Telas da aplicação
+    ├── assets/ # Imagens e recursos estáticos
+    └── environments/ # Configurações de ambiente
+
+- **Dashboard de Vendas (Python + Pandas + Matplotlib + Power BI)**
+  - Extrai e transforma dados de vendas fictícias
+  - Criação de gráficos e relatórios interativos
 
 - **Mini Automation Scripts (Python)**
-  - Automatização de login do Github
+  - Automatização de relatórios em Excel
+  - Extração e limpeza de dados para dashboards
 
 > 🔗 [Meus projetos completos no GitHub](https://github.com/luizfelipefarias)
 
@@ -99,13 +151,4 @@
 
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2c5eWRwamllc2R0dG1qazBxdzB4YjFxYmZvNW1seHlkZ3hrMGo0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASH3GhgVVOW8mlCJdU/giphy.gif" width="300" alt="Dying Light"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVnNmlqdjdzd2JnMzlrY25vcm91N3NwMWE1c25zeXpneHk4eDQ4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ei4R2j6kz9JwVGhwXY/giphy.gif" width="300" alt="Elden Ring"/>
-</p>
-
----
-
-## 🧙‍♂️ Bora Codar e Subir de Level!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Level Up"/>
-</p>
+  <img src="https://media.

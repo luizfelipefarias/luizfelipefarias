@@ -2,7 +2,7 @@
   <img src="./4_20250604_235209_0003.png" width="200" alt="Foto Luiz Felipe" style="border-radius: 50%;" />
   <h1>Eu sou <strong>Luiz Felipe</strong> 👨‍💻🎮</h1>
   <p>
-    🔥 Futuro Desenvolvedor Full Stack & Analista de Dados<br>
+    🔥 Futuro Desenvolvedor Full Stack & Cybersegurança<br>
     👾 Apaixonado por tecnologia, games e animes<br>
     🚀 Em constante evolução no mundo da programação
   </p>
@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre Mim
 - 💥 Explorando as principais tecnologias do mercado
-- 🎯 Foco atual: **Java, Spring Boot, React, Python, SQL e BI (Power BI / Metabase)**
+- 🎯 Foco atual: **Java, Spring Boot, React, Python**
 - 🚀 Aprimorando Back-End com **Java** e Front-End com **React**
 - 💡 Filosofia de vida: *"Todo bug é só mais um boss pra derrotar. Cada projeto é uma quest, cada commit um passo rumo ao próximo level."*
 - 📚 Sempre aprendendo e compartilhando conhecimento

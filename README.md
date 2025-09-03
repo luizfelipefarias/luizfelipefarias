@@ -46,13 +46,9 @@
   - **Funcionalidades:** Seleção de categorias, feedback de respostas, contador de pontuação e timer.
   - **Autores:** Adaptado por @luizfelipefarias, @impedrohenri e @8VINO.
 
-- **Dashboard de Vendas (Python + Pandas + Matplotlib + Power BI)**
-  - Extrai e transforma dados de vendas fictícias
-  - Criação de gráficos e relatórios interativos
-
 - **Mini Automation Scripts (Python)**
-  - Automatização de relatórios em Excel
-  - Extração e limpeza de dados para dashboards
+  - Automatização de login do Github
+  - em terminais 
 
 > 🔗 [Meus projetos completos no GitHub](https://github.com/luizfelipefarias)
 

@@ -86,12 +86,11 @@
 ## 🎯 Roadmap da Vida Dev
 
 - [x] **Passar na prova de Full Stack com Java e React** (Prioridade Máxima)
-- [ ] **Continuar o plano de estudo de Python + SQL + BI**
-- [ ] **Conseguir estágio em Python + SQL + BI**
-- [ ] **Aprofundar o Back-End com Java e o Front-End com React**
+- [ ] **Aprofundar o Back-End (Java) e o Front-End (React)**
+- [ ] **Conseguir estágio em Cibersegurança ou em Desenvolvimento Web ou mobile**
 - [ ] Conquistar Dell G15 / Acer Nitro V15
 - [ ] Alienware m16 R2
-- [ ] Ser full stack profissional e especialista em dados
+- [ ] Ser um especialista em Cibersegurança ou Full Stack
 
 ---
 

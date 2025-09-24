@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/luizfelipefarias">
-  <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefelipe/main/profile-banner.png" alt="banner" width="65%" />
+    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="banner" width="65%" />
   </a>
 </div>
 
 <h1 align="center">Olá 👋, eu sou Luiz Felipe!</h1>
-<p align="center">Namaste 🙏 — Um desenvolvedor em formação com a mente de um monge, a agilidade de um karateca e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
+<p align="center"> Um desenvolvedor em formação com a mente de um monge, a agilidade de um karateca e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
 
 ---
 

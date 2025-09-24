@@ -75,9 +75,9 @@
 ---
 
 ## 🧭 Sobre meus projetos
-- **Projeto A** — pequeno webapp em Java/Servlets (ex.: projetos de disciplina).
-- **Projeto B** — frontend em React + backend em Express (API REST).
-- **Projeto C** — estudos de segurança / TCC (ideia: políticas e normas para IA).
+- **oxefood-web-luiz e oxefood-API-luiz** — Projeto utilizado como exemplo para a disciplina de WEB *IV* no IFPE Campus Jaboatão dos Guararapes .
+- **Reprodutor-de-musicas-mp3-simples-em-python** — Um projeto simples feito com Python usando a biblioteca pygame para tocar músicas .mp3.
+- **Cursos-Udemy** — Uma compilação prática e pessoal dos meus estudos, projetos e evolução no mundo da tecnologia..
 
 ---
 

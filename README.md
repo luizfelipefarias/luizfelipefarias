@@ -18,7 +18,7 @@
   Com um olhar atento para <b>Segurança da Informação</b>, fascinado por <b>Front-end</b> e sempre explorando o universo do <b>Back-end</b>, vejo a tecnologia como um campo vasto para a criatividade.
 </p>
 <p>
-  Fora do código, encontro equilíbrio nos treinos de <b>Karatê</b> e <b>Kali</b>, na estratégia dos games e na imersão em algoritmos, sempre com uma boa xícara de café ☕ ao lado.
+  Fora do código, encontro equilíbrio nos treinos de <b>Artes marciais</b>, na estratégia dos games e na imersão em algoritmos, sempre com uma boa xícara de café ☕ ao lado.
 </p>
 <p align="center">
   "Codar, aprender, repetir!" 🔁 É o meu lema e a minha prática diária.

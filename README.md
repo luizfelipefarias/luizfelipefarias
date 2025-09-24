@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech / Ferramentas
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />&nbsp;

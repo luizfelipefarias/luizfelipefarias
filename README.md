@@ -80,8 +80,7 @@
 
 ## ☕ Me apoie
 Se curtir meu trabalho, pode me oferecer um café ☕:  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white&style=flat-square)](https://www.buymeacoffee.com/SEU_NOME)
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white&style=flat-square)]
 ---
 
 <p align="center">Feito com ❤️, café ☕ e 💻 por Luiz Felipe — <a href="https://github.com/luizfelipefarias">Meu GitHub</a></p>

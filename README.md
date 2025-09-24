@@ -88,9 +88,6 @@
 
 <p align="center">
 <br>Se curtir meu trabalho, um café ☕ é sempre bem-vindo:<br>
-<a href="https://www.buymeacoffee.com/SEU_USER">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge" alt="Buy Me A Coffee" />
-</a>
 </p>
 
 ---

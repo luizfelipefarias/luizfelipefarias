@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <p align="center">
   <a href="https://github.com/luizfelipefarias">
-    <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/profile-banner.png" alt="banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="banner" width="100%" />
   </a>
 </p>
 
@@ -19,7 +19,6 @@
 ---
 
 ## 🛠️ Tech / Ferramentas
-<!-- substitua/adicione badges conforme quiser -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />&nbsp;
@@ -61,28 +60,27 @@
 ---
 
 ## 📁 Repositórios em destaque
-<!-- substitua REPO_EXEMPLO pelos nomes reais dos teus repositórios -->
 <p align="center">
   <a href="https://github.com/luizfelipefarias/skills-introduction-to-codeql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=REPO_EXEMPLO&theme=dark" width="320" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=skills-introduction-to-codeql&theme=dark" width="320" />
   </a>
   &nbsp;
   <a href="https://github.com/luizfelipefarias/Reprodutor-de-musicas-mp3-simples-em-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=OUTRO_REPO&theme=dark" width="320" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=Reprodutor-de-musicas-mp3-simples-em-python&theme=dark" width="320" />
   </a>
 </p>
 
 ---
 
 ## 🧭 Sobre meus projetos
-- **oxefood-web-luiz e oxefood-API-luiz** — Projeto utilizado como exemplo para a disciplina de WEB *IV* no IFPE Campus Jaboatão dos Guararapes .
+- **oxefood-web-luiz e oxefood-API-luiz** — Projeto utilizado como exemplo para a disciplina de WEB *IV* no IFPE Campus Jaboatão dos Guararapes.
 - **Reprodutor-de-musicas-mp3-simples-em-python** — Um projeto simples feito com Python usando a biblioteca pygame para tocar músicas .mp3.
-- **Cursos-Udemy** — Uma compilação prática e pessoal dos meus estudos, projetos e evolução no mundo da tecnologia..
+- **Cursos-Udemy** — Uma compilação prática e pessoal dos meus estudos, projetos e evolução no mundo da tecnologia.
 
 ---
 
 ## ☕ Suporte
-Se curtir o conteúdo, você pode contribuir com um café ☕ abaixo (link opcional):
+Se curtir o conteúdo, você pode contribuir com um café ☕ abaixo (link opcional):  
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white&style=flat-square)](https://www.buymeacoffee.com/SEU_NOME)
 
 ---

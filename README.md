@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Olá 👋, eu sou Luiz Felipe!</h1>
-<p align="center"> Um desenvolvedor em formação com a mente de um monge, a agilidade de um karateca e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
+<p align="center"> Um desenvolvedor em formação  e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
 
 ---
 

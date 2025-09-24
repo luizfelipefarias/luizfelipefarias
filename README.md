@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <p align="center">
   <a href="https://github.com/luizfelipefarias">
-    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="banner" width="80%" />
+    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="banner" width="70%" />
   </a>
 </p>
 

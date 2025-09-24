@@ -63,11 +63,11 @@
 ## 📁 Repositórios em destaque
 <!-- substitua REPO_EXEMPLO pelos nomes reais dos teus repositórios -->
 <p align="center">
-  <a href="https://github.com/luizfelipefarias/REPO_EXEMPLO">
+  <a href="https://github.com/luizfelipefarias/skills-introduction-to-codeql">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=REPO_EXEMPLO&theme=dark" width="320" />
   </a>
   &nbsp;
-  <a href="https://github.com/luizfelipefarias/OUTRO_REPO">
+  <a href="https://github.com/luizfelipefarias/Reprodutor-de-musicas-mp3-simples-em-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=OUTRO_REPO&theme=dark" width="320" />
   </a>
 </p>

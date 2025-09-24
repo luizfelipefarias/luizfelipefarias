@@ -81,8 +81,8 @@
 ### 💌 Me encontre por aí
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/luiz-felipe-farias-395a44234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:luizfelipefariasbraz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-farias-395a44234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/luizfelipefarias"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </div>
 

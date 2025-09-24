@@ -12,7 +12,7 @@
 ### 🌟 Sobre mim
 
 <p>
-  Sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> no IFPE, e minha jornada é impulsionada pela busca constante por conhecimento em programação e arquitetura de software. Meu objetivo é me tornar um desenvolvedor <b>Full-Stack</b> completo e impactar o mundo com soluções inovadoras.
+  Sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> no IFPE, e minha jornada é impulsionada pela busca constante por conhecimento em programação e arquitetura de software. Meu objetivo é me tornar um desenvolvedor <b>Full-Stack</b> completo.
 </p>
 <p>
   Com um olhar atento para <b>Segurança da Informação</b>, fascinado por <b>Front-end</b> e sempre explorando o universo do <b>Back-end</b>, vejo a tecnologia como um campo vasto para a criatividade.

@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/luizfelipefarias">
-   <iframe src="https://assets.pinterest.com/ext/embed.html?id=18858892186315592" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefelipe/main/profile-banner.png" alt="banner" width="65%" />
   </a>
 </div>
 
@@ -89,7 +89,3 @@
 <p align="center">
 <br>Se curtir meu trabalho, um café ☕ é sempre bem-vindo:<br>
 </p>
-
----
-
-<p align="center">Feito com ❤️, café ☕ e 💻 por Luiz Felipe — <a href="https://github.com/luizfelipefarias">Meu GitHub</a></p>

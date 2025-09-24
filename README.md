@@ -15,7 +15,7 @@
   Sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> no IFPE, e minha jornada é impulsionada pela busca constante por conhecimento em programação e arquitetura de software. Meu objetivo é me tornar um desenvolvedor <b>Full-Stack</b> completo e impactar o mundo com soluções inovadoras.
 </p>
 <p>
-  Com um olhar atento para <b>Segurança da Informação</b>, fascinado por <b>Inteligência Artificial</b> e sempre explorando o universo dos <b>Bancos de Dados</b>, vejo a tecnologia como um campo vasto para a criatividade.
+  Com um olhar atento para <b>Segurança da Informação</b>, fascinado por <b>Front-end</b> e sempre explorando o universo do <b>Back-end</b>, vejo a tecnologia como um campo vasto para a criatividade.
 </p>
 <p>
   Fora do código, encontro equilíbrio nos treinos de <b>Karatê</b> e <b>Kali</b>, na estratégia dos games e na imersão em algoritmos, sempre com uma boa xícara de café ☕ ao lado.

@@ -11,7 +11,7 @@
 ---
 
 ## 🔭 Sobre mim
-- 🎓 Estudante de ADS (IFPE) e Licenciatura em Matemática (UFRPE).
+- 🎓 Estudante de ADS (IFPE).
 - 💻 Interesses: **Desenvolvimento Web**, **Segurança da Informação**, **IA** e **Bancos de Dados**.
 - 🧭 Aprendendo: **Java**, **JavaScript**, **React**, **Node/Express**, **MySQL**.
 - ⚡ Hobbies: treinos de karatê e Kali, games, estudar algoritmos.

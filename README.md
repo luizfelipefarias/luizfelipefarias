@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/luizfelipefarias">
-    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="bannerprofile" width="89%" />
+    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="bannerprofile" width="99%" />
   </a>
 </div>
 

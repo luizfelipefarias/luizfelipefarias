@@ -54,7 +54,7 @@
 ### 🏅 Contribuições & Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizfelipefarias&theme=radical" alt="github streak" />
+  <img src="https://streak-stats.demolab.com?user=luizfelipefarias&theme=radical" alt="github streak" />
 </div>
 
 ---

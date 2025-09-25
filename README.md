@@ -46,11 +46,14 @@ Fora do código, me equilibro com treinos de <b>artes marciais</b>, games de est
 
 ---
 
-### 🏆 Conquistas no GitHub
+### 🏅 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=luizfelipefarias&label=Visualizações&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/luizfelipefarias?label=Seguidores&style=flat-square&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/luizfelipefarias?label=Stars&style=flat-square&color=blueviolet" />
 </p>
+
 
 ---
 

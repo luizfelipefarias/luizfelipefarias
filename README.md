@@ -87,5 +87,5 @@
 </div>
 
 <p align="center">
-<br>Se curtir meu trabalho, um café ☕ é sempre bem-vindo:<br>
+<br>Se curtir meu trabalho, um café ☕ é sempre bem-vindo<br>
 </p>

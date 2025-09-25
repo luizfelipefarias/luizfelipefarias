@@ -52,12 +52,12 @@
 ---
 
 ### 🏆 Conquistas no GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+  </p>
+</div>
 ---
-
 ### 📁 Projetos em Destaque
 
 <div align="center">

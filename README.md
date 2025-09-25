@@ -51,12 +51,11 @@
 
 ---
 
-### 🏅 Contribuições & Streak
+### 🏆 Conquistas no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizfelipefarias&theme=radical" alt="github streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ### 📁 Projetos em Destaque

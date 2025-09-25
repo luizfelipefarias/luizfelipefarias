@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/luizfelipefarias">
-   <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="bannerprofile" width="100%" />
+    <img src="https://raw.githubusercontent.com/luizfelipefarias/luizfelipefarias/main/profile-banner.png" alt="bannerprofile" width="100%" />
   </a>
 </div>
 
 <h1 align="center">Olá 👋, eu sou Luiz Felipe!</h1>
-<p align="center"> Um desenvolvedor em formação  e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
+<p align="center"> Um desenvolvedor em formação e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
 
 ---
 
@@ -56,12 +56,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
+
 ---
 
 ### 📁 Projetos em Destaque
 
 <div align="center">
   <p>Explore alguns dos meus projetos que demonstram minhas habilidades na prática:</p>
+
   <a href="https://github.com/luizfelipefarias/oxefood-web-luiz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=oxefood-web-luiz&theme=radical&show_owner=true" width="320" />
   </a>
@@ -69,22 +71,28 @@
   <a href="https://github.com/luizfelipefarias/Reprodutor-de-musicas-mp3-simples-em-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=Reprodutor-de-musicas-mp3-simples-em-python&theme=radical&show_owner=true" width="320" />
   </a>
+  &nbsp;
   <a href="https://github.com/luizfelipefarias/Cursos-Udemy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=Cursos-Udemy&theme=radical&show_owner=true" width="320" />
   </a>
 </div>
-<br>
 
 ---
 
 ### 💌 Me encontre por aí
 
 <div align="center">
-  <a href="mailto:luizfelipefariasbraz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/luiz-felipe-farias-395a44234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/luizfelipefarias"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:luizfelipefariasbraz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-farias-395a44234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/luizfelipefarias">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
 </div>
 
 <p align="center">
-<br>Se curtir meu trabalho, um café ☕ é sempre bem-vindo<br>
+  <br>Se curtir meu trabalho, um café ☕ é sempre bem-vindo!<br>
 </p>

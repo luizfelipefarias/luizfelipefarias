@@ -5,24 +5,19 @@
 </div>
 
 <h1 align="center">Olá 👋, eu sou Luiz Felipe!</h1>
-<p align="center"> Um desenvolvedor em formação e a paixão por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
+<p align="center">Um desenvolvedor em formação e apaixonado por tecnologia em cada linha de código. Vamos criar algo incrível! 🚀</p>
 
 ---
 
 ### 🌟 Sobre mim
 
-<p>
-  Sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> no IFPE, e minha jornada é impulsionada pela busca constante por conhecimento em programação e arquitetura de software. Meu objetivo é me tornar um desenvolvedor <b>Full-Stack</b> completo.
-</p>
-<p>
-  Com um olhar atento para <b>Segurança da Informação</b>, fascinado por <b>Front-end</b> e sempre explorando o universo do <b>Back-end</b>, vejo a tecnologia como um campo vasto para a criatividade.
-</p>
-<p>
-  Fora do código, encontro equilíbrio nos treinos de <b>Artes marciais</b>, na estratégia dos games e na imersão em algoritmos, sempre com uma boa xícara de café ☕ ao lado.
-</p>
-<p align="center">
-  "Codar, aprender, repetir!" 🔁 É o meu lema e a minha prática diária.
-</p>
+Sou estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> no IFPE. Minha jornada é movida pela busca constante por conhecimento em programação e arquitetura de software. Busco me tornar um desenvolvedor <b>Full-Stack</b> completo.
+
+Tenho interesse especial por <b>Segurança da Informação</b>, sou fascinado por <b>Front-end</b> e curioso com os desafios do <b>Back-end</b>. Vejo a tecnologia como um espaço infinito para criatividade.
+
+Fora do código, me equilibro com treinos de <b>artes marciais</b>, games de estratégia e algoritmos, sempre com uma xícara de café ☕ ao lado.
+
+<p align="center"><i>"Codar, aprender, repetir!" 🔁 é o meu lema diário.</i></p>
 
 ---
 
@@ -52,16 +47,18 @@
 ---
 
 ### 🏆 Conquistas no GitHub
-<div align="center">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
-  </p>
-</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luizfelipefarias&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
+
 ---
+
 ### 📁 Projetos em Destaque
 
+<p align="center">Explore alguns dos meus projetos que demonstram minhas habilidades na prática:</p>
+
 <div align="center">
-  <p>Explore alguns dos meus projetos que demonstram minhas habilidades na prática:</p>
 
   <a href="https://github.com/luizfelipefarias/oxefood-web-luiz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=oxefood-web-luiz&theme=radical&show_owner=true" width="320" />
@@ -74,6 +71,7 @@
   <a href="https://github.com/luizfelipefarias/Cursos-Udemy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=Cursos-Udemy&theme=radical&show_owner=true" width="320" />
   </a>
+
 </div>
 
 ---

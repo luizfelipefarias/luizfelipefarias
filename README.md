@@ -49,7 +49,7 @@ Fora do código, me equilibro com treinos de <b>artes marciais</b>, games de est
 ### 🏆 Contribuições Recentes
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipefarias&theme=radical&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipefarias&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---

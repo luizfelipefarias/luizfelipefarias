@@ -46,14 +46,11 @@ Fora do código, me equilibro com treinos de <b>artes marciais</b>, games de est
 
 ---
 
-### 🏅 Minhas Estatísticas
+### 🏆 Contribuições Recentes
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizfelipefarias&label=Visualizações&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/luizfelipefarias?label=Seguidores&style=flat-square&color=blueviolet" />
-  <img src="https://img.shields.io/github/stars/luizfelipefarias?label=Stars&style=flat-square&color=blueviolet" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfelipefarias&theme=radical&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
 
 ---
 

@@ -36,16 +36,6 @@ Fora do código, me equilibro com treinos de <b>artes marciais</b>, games de est
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=luizfelipefarias&show_icons=true&theme=radical&count_private=true" />
-  &nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipefarias&layout=compact&theme=radical" />
-</div>
-
----
-
 ### 🏆 Contribuições Recentes
 
 <p align="center">
@@ -54,27 +44,6 @@ Fora do código, me equilibro com treinos de <b>artes marciais</b>, games de est
 
 ---
 
-### 📁 Projetos em Destaque
-
-<p align="center">Explore alguns dos meus projetos que demonstram minhas habilidades na prática:</p>
-
-<div align="center">
-
-  <a href="https://github.com/luizfelipefarias/oxefood-web-luiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=oxefood-web-luiz&theme=radical&show_owner=true" width="320" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/luizfelipefarias/Reprodutor-de-musicas-mp3-simples-em-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=Reprodutor-de-musicas-mp3-simples-em-python&theme=radical&show_owner=true" width="320" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/luizfelipefarias/Cursos-Udemy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizfelipefarias&repo=Cursos-Udemy&theme=radical&show_owner=true" width="320" />
-  </a>
-
-</div>
-
----
 
 ### 💌 Me encontre por aí
 
